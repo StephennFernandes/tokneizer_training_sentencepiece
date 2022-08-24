@@ -1,6 +1,5 @@
 import os
 
-#filepaths
 BASEPATH = "work"
 
 DATA_DIR = os.path.join(BASEPATH, "data")
