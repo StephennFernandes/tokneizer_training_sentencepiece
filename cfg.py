@@ -1,6 +1,6 @@
 import os
 
-
+#this is base dir
 BASEPATH = "work"
 
 DATA_DIR = "data"
