@@ -1,6 +1,6 @@
 import os
 
-# this is home dir
+
 BASEPATH = "work"
 
 DATA_DIR = "data"
